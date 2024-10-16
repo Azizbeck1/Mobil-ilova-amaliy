@@ -4,6 +4,8 @@ void main() {
   runApp(MyApp());
 }
 
+
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -12,6 +14,8 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
 
 class MyHomePage extends StatelessWidget {
   // Modal oynani ko'rsatish funksiyasi
@@ -59,3 +63,6 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
+
+
+
